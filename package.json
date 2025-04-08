@@ -1,0 +1,16 @@
+{
+    "name": "chaos-web-management-system",
+    "version": "1.0.0",
+    "description": "Chaos Web Management System",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "sequelize": "^6.28.0",
+        "pg": "^8.7.1",
+        "swagger-ui-express": "^4.5.0",
+        "swagger-jsdoc": "^6.2.8"
+    }
+}
